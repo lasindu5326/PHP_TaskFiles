@@ -53,6 +53,11 @@
         .submit-btn:hover {
             background-color: #b380dd;
         }
+.hi{
+            width: 100%;
+            padding: 10px;   
+}
+        
     </style>
 </head>
 <body>
